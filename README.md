@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SmartXingZhou
-- 👀 I’m interested in service architecture、web2.0、web3.0.
+- 👀 I’m interested in service architecture、web2.0、web3.0、online collaboration.
 - 🌱 I’m currently learning web3.0
 - 📫 How to reach me ，weixin：smartjiajiajia
 
